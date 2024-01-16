@@ -1,0 +1,5 @@
+fastapi==0.89.1
+uvicorn==0.20.0
+git+https://github.com/openai/whisper.git
+pydub==0.25.1
+pandas==1.5.3
