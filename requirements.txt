@@ -1,0 +1,8 @@
+fastapi==0.89.1
+uvicorn==0.20.0
+pydantic==1.10.4
+transformers==4.26.0
+pandas==1.5.3
+faiss-cpu==1.7.2
+torch==1.13.1
+editdistance==0.6.2
