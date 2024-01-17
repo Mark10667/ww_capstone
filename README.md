@@ -1,6 +1,13 @@
 # voice-tracking
 Columbia University Captstone Project to build a POC using open source AI technologies to extract food entities from spoken voice.
 
+Portfolio: https://ym2822.wixsite.com/mark-ma/weightwatchers
+
+![WW_capstone_5](https://github.com/Mark10667/ww_capstone/assets/33364324/3a6c5c80-3080-4c3c-84fe-f4328df41b74)
+
+<img width="556" alt="WW_capstone_4" src="https://github.com/Mark10667/ww_capstone/assets/33364324/491fce17-180d-4431-b57e-208c7332efec">
+
+<img width="815" alt="WW_capstone_5" src="https://github.com/Mark10667/ww_capstone/assets/33364324/143d7d4a-6b46-40d2-807f-b4332f30e9f1">
 
 [Project Description](https://docs.google.com/document/d/1Nm5AamvFH7vn2ll0XGY4M_Dmsus8N9Y-Lvr4SLLHH-s/edit#heading=h.jk8x41wnkhgb)
 
